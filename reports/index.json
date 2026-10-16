@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260724-210939-6m7v",
+      "title": "Ozzy Jinwoo, Papa Akram",
+      "commanders": [
+        "Ozzy Jinwoo",
+        "Papa Akram"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-07-25T02:09:39.000Z",
+      "dateEnd": "2026-07-25T05:16:33.026Z",
+      "dateLabel": "7/24/2026, 9:09:39 PM - 7/25/2026, 12:16:33 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260724-210939-6m7v",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 62
+      }
+    },
+    {
       "id": "20260724-191901-ro4y",
       "title": "Virtuous Claps",
       "commanders": [
