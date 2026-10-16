@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20260724-191901-ro4y",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-07-25T00:19:01.000Z",
+      "dateEnd": "2026-07-25T01:20:02.468Z",
+      "dateLabel": "7/24/2026, 7:19:01 PM - 7/24/2026, 8:20:02 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260724-191901-ro4y",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260724-034447-5xqj",
       "title": "Nords From Skyrim, Stout Quartz",
       "commanders": [
