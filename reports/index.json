@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20260727-192805-eqq5",
+      "title": "Leytonnn, Pretty Humner",
+      "commanders": [
+        "Leytonnn",
+        "Pretty Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-07-28T00:28:05.000Z",
+      "dateEnd": "2026-07-28T03:52:08.257Z",
+      "dateLabel": "7/27/2026, 7:28:05 PM - 7/27/2026, 10:52:08 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260727-192805-eqq5",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.2682926829268293,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260725-182107-rf6l",
       "title": "Mamasontwo, Virtuous Claps",
       "commanders": [
