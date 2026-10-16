@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260724-034447-5xqj",
+      "title": "Nords From Skyrim, Stout Quartz",
+      "commanders": [
+        "Nords From Skyrim",
+        "Stout Quartz"
+      ],
+      "guild": {
+        "id": "4E8B2FE5-044F-F011-81AC-95DFE50946EB",
+        "name": "One Moar",
+        "tag": "FITE"
+      },
+      "dateStart": "2026-07-24T08:44:47.000Z",
+      "dateEnd": "2026-07-24T21:24:21.432Z",
+      "dateLabel": "7/24/2026, 3:44:47 AM - 7/24/2026, 4:24:21 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260724-034447-5xqj",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260818-200321-cvjo",
       "title": "Ardora Xeradottir, Lumpia Humner, Tofferrrrrrrr",
       "commanders": [
