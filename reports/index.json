@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20260725-072543-o51q",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-07-25T12:25:43.000Z",
+      "dateEnd": "2026-07-25T13:50:55.160Z",
+      "dateLabel": "7/25/2026, 7:25:43 AM - 7/25/2026, 8:50:55 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260725-072543-o51q",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260724-210939-6m7v",
       "title": "Ozzy Jinwoo, Papa Akram",
       "commanders": [
