@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20260811-203836-p1kf",
+      "title": "Lira Humner",
+      "commanders": [
+        "Lira Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-12T01:38:36.000Z",
+      "dateEnd": "2026-08-12T04:08:38.976Z",
+      "dateLabel": "8/11/2026, 8:38:36 PM - 8/11/2026, 11:08:38 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260811-203836-p1kf",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260812-133154-hofp",
       "title": "Lightbeam Jack, Tilted Aegis",
       "commanders": [
