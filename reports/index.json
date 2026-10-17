@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260804-201544-3zqi",
+      "title": "Lumpia Humner, Salazierthaous",
+      "commanders": [
+        "Lumpia Humner",
+        "Salazierthaous"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-05T01:15:44.000Z",
+      "dateEnd": "2026-08-05T02:45:46.018Z",
+      "dateLabel": "8/4/2026, 8:15:44 PM - 8/4/2026, 9:45:46 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260804-201544-3zqi",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 44,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260804-074358-k31l",
       "title": "Carvis Onachrono, Carvista",
       "commanders": [
