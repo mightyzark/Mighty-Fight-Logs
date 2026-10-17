@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260812-133154-hofp",
+      "title": "Lightbeam Jack, Tilted Aegis",
+      "commanders": [
+        "Lightbeam Jack",
+        "Tilted Aegis"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-12T18:31:54.000Z",
+      "dateEnd": "2026-08-12T20:07:45.830Z",
+      "dateLabel": "8/12/2026, 1:31:54 PM - 8/12/2026, 3:07:45 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260812-133154-hofp",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260812-221427-s5o2",
       "title": "Pretty Humner",
       "commanders": [
