@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260815-124104-t9i6",
+      "title": "Cocoro Angel, Lightbeam Jack",
+      "commanders": [
+        "Cocoro Angel",
+        "Lightbeam Jack"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-15T17:41:04.000Z",
+      "dateEnd": "2026-08-15T19:25:38.468Z",
+      "dateLabel": "8/15/2026, 12:41:04 PM - 8/15/2026, 2:25:38 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260815-124104-t9i6",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260815-203444-u455",
       "title": "Pretty Humner",
       "commanders": [
