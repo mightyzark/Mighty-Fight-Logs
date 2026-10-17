@@ -1,13 +1,42 @@
 {
-  "colorPalette": "violet-purple",
-  "axiTheme": "default",
-  "glass": false,
-  "glassSurfaces": false,
+  "colorPalette": "crimson-red",
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
     "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20260808-000209-qj2z",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-08T05:02:09.000Z",
+      "dateEnd": "2026-08-08T05:31:09.354Z",
+      "dateLabel": "8/8/2026, 12:02:09 AM - 8/8/2026, 12:31:09 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260808-000209-qj2z",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 52
+      }
+    },
     {
       "id": "20260808-145716-tgl8",
       "title": "Cocoro Angel, Virtuous Claps",
