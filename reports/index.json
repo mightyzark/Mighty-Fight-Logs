@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20260810-084508-okuh",
+      "title": "Carvis Onachrono",
+      "commanders": [
+        "Carvis Onachrono"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-10T13:45:08.000Z",
+      "dateEnd": "2026-08-10T16:10:45.343Z",
+      "dateLabel": "8/10/2026, 8:45:08 AM - 8/10/2026, 11:10:45 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260810-084508-okuh",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260811-203836-p1kf",
       "title": "Lira Humner",
       "commanders": [
