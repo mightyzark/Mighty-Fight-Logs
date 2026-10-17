@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20260809-142033-3s5o",
+      "title": "Lightbeam Jack, Nugg Fu Fighting",
+      "commanders": [
+        "Lightbeam Jack",
+        "Nugg Fu Fighting"
+      ],
+      "guild": {
+        "id": "F12E846B-078A-4347-B4CC-DABF616CD7D5",
+        "name": "War Dragons Of Chaos",
+        "tag": "WDOC"
+      },
+      "dateStart": "2026-08-09T19:20:33.000Z",
+      "dateEnd": "2026-08-09T22:10:49.621Z",
+      "dateLabel": "8/9/2026, 2:20:33 PM - 8/9/2026, 5:10:49 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260809-142033-3s5o",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.2222222222222222,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260810-084508-okuh",
       "title": "Carvis Onachrono",
       "commanders": [
