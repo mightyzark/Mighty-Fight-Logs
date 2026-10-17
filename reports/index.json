@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20260728-192006-m45p",
+      "title": "Lumpia Humner, Maryth Gatekeeper",
+      "commanders": [
+        "Lumpia Humner",
+        "Maryth Gatekeeper"
+      ],
+      "guild": {
+        "id": "E371F962-79A0-45F7-8FFF-5A928B6BF553",
+        "name": "Mindless And Generic Identity",
+        "tag": "MAGI"
+      },
+      "dateStart": "2026-07-29T00:20:06.000Z",
+      "dateEnd": "2026-07-29T04:02:22.567Z",
+      "dateLabel": "7/28/2026, 7:20:06 PM - 7/28/2026, 11:02:22 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260728-192006-m45p",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.22857142857142856,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 8,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260727-235836-aa6q",
       "title": "Dinos X",
       "commanders": [
