@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261016-231708-ruci",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "guild": {
+        "id": "3DE1ED97-E409-EC11-81A8-C983E8889009",
+        "name": "Fellowship Of The Apocalypse",
+        "tag": "KOIN"
+      },
+      "dateStart": "2026-10-17T04:17:08.000Z",
+      "dateEnd": "2026-10-17T05:13:39.645Z",
+      "dateLabel": "10/16/2026, 11:17:08 PM - 10/17/2026, 12:13:39 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261016-231708-ruci",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 71
+      }
+    },
+    {
       "id": "20261016-222400-wjlx",
       "title": "Lumpia Humner",
       "commanders": [
