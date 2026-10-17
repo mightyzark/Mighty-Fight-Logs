@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20260804-074358-k31l",
+      "title": "Carvis Onachrono, Carvista",
+      "commanders": [
+        "Carvis Onachrono",
+        "Carvista"
+      ],
+      "guild": {
+        "id": "3E2A4070-C6B4-F011-81AB-F50023EE1BF3",
+        "name": "Seriously Not Serious",
+        "tag": "SnS"
+      },
+      "dateStart": "2026-08-04T12:43:58.000Z",
+      "dateEnd": "2026-08-04T15:39:00.625Z",
+      "dateLabel": "8/4/2026, 7:43:58 AM - 8/4/2026, 10:39:00 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260804-074358-k31l",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.10256410256410256,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20260803-234211-bt7w",
       "title": "Deadulastv",
       "commanders": [
