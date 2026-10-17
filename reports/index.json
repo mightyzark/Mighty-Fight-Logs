@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260913-214019-3w16",
+      "title": "Laesdese, Lumpia Humner",
+      "commanders": [
+        "Laesdese",
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-09-14T02:40:19.000Z",
+      "dateEnd": "2026-09-14T04:23:46.091Z",
+      "dateLabel": "9/13/2026, 9:40:19 PM - 9/13/2026, 11:23:46 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260913-214019-3w16",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260914-203354-31b1",
       "title": "Lira Humner, Lumpia Humner",
       "commanders": [
