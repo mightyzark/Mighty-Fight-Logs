@@ -1,5 +1,5 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "violet-purple",
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
@@ -8,6 +8,35 @@
     "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261016-222400-wjlx",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-17T03:24:00.000Z",
+      "dateEnd": "2026-10-17T04:17:42.095Z",
+      "dateLabel": "10/16/2026, 10:24:00 PM - 10/16/2026, 11:17:42 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261016-222400-wjlx",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 30
+      }
+    },
     {
       "id": "20260730-184023-8jr6",
       "title": "Lumpia Humner, Virtuous Claps",
