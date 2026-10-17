@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20260806-181301-cesn",
+      "title": "Virtuous Claps",
+      "commanders": [
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-08-06T23:13:01.000Z",
+      "dateEnd": "2026-08-07T01:17:43.318Z",
+      "dateLabel": "8/6/2026, 6:13:01 PM - 8/6/2026, 8:17:43 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260806-181301-cesn",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260807-204722-1i7u",
       "title": "Lumpia Humner",
       "commanders": [
