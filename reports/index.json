@@ -9,6 +9,37 @@
   },
   "entries": [
     {
+      "id": "20260729-180941-wb3z",
+      "title": "Clappy Murdercakes, Pretty Humner, Virtuous Claps",
+      "commanders": [
+        "Clappy Murdercakes",
+        "Pretty Humner",
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "0E323939-2F0A-4E23-A3CB-28A60B23E223",
+        "name": "Dragon Fight Club",
+        "tag": "dfc"
+      },
+      "dateStart": "2026-07-29T23:09:41.000Z",
+      "dateEnd": "2026-07-30T03:19:33.499Z",
+      "dateLabel": "7/29/2026, 6:09:41 PM - 7/29/2026, 10:19:33 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260729-180941-wb3z",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260728-192006-m45p",
       "title": "Lumpia Humner, Maryth Gatekeeper",
       "commanders": [
