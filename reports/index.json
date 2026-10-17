@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261016-152637-32cg",
+      "title": "Captain Floofpaws",
+      "commanders": [
+        "Captain Floofpaws"
+      ],
+      "guild": {
+        "id": "3EF6FE22-B1CE-EF11-8465-02315AB41281",
+        "name": "Imperium Of Heroes",
+        "tag": "SSS"
+      },
+      "dateStart": "2026-10-16T20:26:37.000Z",
+      "dateEnd": "2026-10-16T21:54:54.482Z",
+      "dateLabel": "10/16/2026, 3:26:37 PM - 10/16/2026, 4:54:54 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261016-152637-32cg",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20261016-202715-oyrh",
       "title": "Lumpia Humner",
       "commanders": [
