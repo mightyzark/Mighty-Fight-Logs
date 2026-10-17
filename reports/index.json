@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20260808-145716-tgl8",
+      "title": "Cocoro Angel, Virtuous Claps",
+      "commanders": [
+        "Cocoro Angel",
+        "Virtuous Claps"
+      ],
+      "guild": {
+        "id": "3EF6FE22-B1CE-EF11-8465-02315AB41281",
+        "name": "Imperium Of Heroes",
+        "tag": "SSS"
+      },
+      "dateStart": "2026-08-08T19:57:16.000Z",
+      "dateEnd": "2026-08-08T23:53:53.557Z",
+      "dateLabel": "8/8/2026, 2:57:16 PM - 8/8/2026, 6:53:53 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260808-145716-tgl8",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 45,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260809-142033-3s5o",
       "title": "Lightbeam Jack, Nugg Fu Fighting",
       "commanders": [
