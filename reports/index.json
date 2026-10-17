@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20260803-234211-bt7w",
+      "title": "Deadulastv",
+      "commanders": [
+        "Deadulastv"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-04T04:42:11.000Z",
+      "dateEnd": "2026-08-04T06:27:14.355Z",
+      "dateLabel": "8/3/2026, 11:42:11 PM - 8/4/2026, 1:27:14 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260803-234211-bt7w",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260803-210237-zdp5",
       "title": "Doc The Freed, Rosi The Royal",
       "commanders": [
