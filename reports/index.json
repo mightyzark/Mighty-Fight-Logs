@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20260819-201329-3uso",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-08-20T01:13:29.000Z",
+      "dateEnd": "2026-08-20T02:31:51.201Z",
+      "dateLabel": "8/19/2026, 8:13:29 PM - 8/19/2026, 9:31:51 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260819-201329-3uso",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260820-203937-gp2i",
       "title": "Maria Humner",
       "commanders": [
