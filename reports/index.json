@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20260908-203321-6xjx",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-09-09T01:33:21.000Z",
+      "dateEnd": "2026-09-09T02:34:02.737Z",
+      "dateLabel": "9/8/2026, 8:33:21 PM - 9/8/2026, 9:34:02 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20260908-203321-6xjx",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.13636363636363635,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260909-201331-fohf",
       "title": "Azarielle Arcangel, Clappy Murdercakes, Laesdese, Pretty Humner",
       "commanders": [
