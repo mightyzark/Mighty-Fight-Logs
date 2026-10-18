@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261018-142816-katl",
+      "title": "Power Chomper",
+      "commanders": [
+        "Power Chomper"
+      ],
+      "guild": {
+        "id": "3EF6FE22-B1CE-EF11-8465-02315AB41281",
+        "name": "Imperium Of Heroes",
+        "tag": "SSS"
+      },
+      "dateStart": "2026-10-18T19:28:16.000Z",
+      "dateEnd": "2026-10-18T20:54:00.940Z",
+      "dateLabel": "10/18/2026, 2:28:16 PM - 10/18/2026, 3:54:00 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261018-142816-katl",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 23
+      }
+    },
+    {
       "id": "20261017-191828-lbe9",
       "title": "Alice De Charme, Lileas Sunray, Lily Velour, Tyri Silverheart",
       "commanders": [
