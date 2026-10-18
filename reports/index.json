@@ -9,6 +9,48 @@
   },
   "entries": [
     {
+      "id": "20261017-191828-lbe9",
+      "title": "Alice De Charme, Lileas Sunray, Lily Velour, Tyri Silverheart",
+      "commanders": [
+        "Alice De Charme",
+        "Lileas Sunray",
+        "Lily Velour",
+        "Tyri Silverheart"
+      ],
+      "guild": {
+        "id": "37E9423C-3119-E511-8D0D-AC162DAE8ACD",
+        "name": "The Pug Group",
+        "tag": "PUGS"
+      },
+      "dateStart": "2026-10-18T00:18:28.000Z",
+      "dateEnd": "2026-10-18T03:10:08.753Z",
+      "dateLabel": "10/17/2026, 7:18:28 PM - 10/17/2026, 10:10:08 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261017-191828-lbe9",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.5384615384615384,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20260804-201544-3zqi",
       "title": "Lumpia Humner, Salazierthaous",
       "commanders": [
