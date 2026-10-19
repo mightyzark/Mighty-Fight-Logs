@@ -5,9 +5,38 @@
   "glassSurfaces": true,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.7"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261019-003006-zlf7",
+      "title": "Video Game Cmdr Guy",
+      "commanders": [
+        "Video Game Cmdr Guy"
+      ],
+      "guild": {
+        "id": "3DE1ED97-E409-EC11-81A8-C983E8889009",
+        "name": "Fellowship Of The Apocalypse",
+        "tag": "KOIN"
+      },
+      "dateStart": "2026-10-19T05:30:06.000Z",
+      "dateEnd": "2026-10-19T05:56:39.590Z",
+      "dateLabel": "10/19/2026, 12:30:06 AM - 10/19/2026, 12:56:39 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261019-003006-zlf7",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261018-194211-315u",
       "title": "Lumpia Humner",
