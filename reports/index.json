@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261019-132726-5qmt",
+      "title": "Findard Silverclaw",
+      "commanders": [
+        "Findard Silverclaw"
+      ],
+      "guild": {
+        "id": "8C33050C-2F74-E411-8290-AC162DAE0BED",
+        "name": "Im Too Poor To Transfer",
+        "tag": "poor"
+      },
+      "dateStart": "2026-10-19T18:27:26.000Z",
+      "dateEnd": "2026-10-19T19:35:15.231Z",
+      "dateLabel": "10/19/2026, 1:27:26 PM - 10/19/2026, 2:35:15 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261019-132726-5qmt",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261019-003006-zlf7",
       "title": "Video Game Cmdr Guy",
       "commanders": [
