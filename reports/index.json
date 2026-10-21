@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261020-201106-vx88",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-21T01:11:06.000Z",
+      "dateEnd": "2026-10-21T01:57:55.438Z",
+      "dateLabel": "10/20/2026, 8:11:06 PM - 10/20/2026, 8:57:55 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261020-201106-vx88",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 60,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 34
+      }
+    },
+    {
       "id": "20261019-230154-suts",
       "title": "Video Game Cmdr Guy",
       "commanders": [
