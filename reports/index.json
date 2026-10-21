@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261021-153646-dghv",
+      "title": "Get Mesmorized",
+      "commanders": [
+        "Get Mesmorized"
+      ],
+      "guild": {
+        "id": "9E5A4F68-9C53-4C23-8C69-1918E2F2CFC1",
+        "name": "Lurk In Absolute Darkness",
+        "tag": "Nite"
+      },
+      "dateStart": "2026-10-21T20:36:46.000Z",
+      "dateEnd": "2026-10-21T21:39:36.966Z",
+      "dateLabel": "10/21/2026, 3:36:46 PM - 10/21/2026, 4:39:36 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261021-153646-dghv",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261020-234917-txw1",
       "title": "Join Comms",
       "commanders": [
