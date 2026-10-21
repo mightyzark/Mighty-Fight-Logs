@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261020-234917-txw1",
+      "title": "Join Comms",
+      "commanders": [
+        "Join Comms"
+      ],
+      "guild": {
+        "id": "3DE1ED97-E409-EC11-81A8-C983E8889009",
+        "name": "Fellowship Of The Apocalypse",
+        "tag": "KOIN"
+      },
+      "dateStart": "2026-10-21T04:49:17.000Z",
+      "dateEnd": "2026-10-21T05:22:50.828Z",
+      "dateLabel": "10/20/2026, 11:49:17 PM - 10/21/2026, 12:22:50 AM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261020-234917-txw1",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 40,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20261020-201106-vx88",
       "title": "Pretty Humner",
       "commanders": [
