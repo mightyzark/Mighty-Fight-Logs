@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261023-211141-es0f",
+      "title": "Davidsitos",
+      "commanders": [
+        "Davidsitos"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-10-24T02:11:41.000Z",
+      "dateEnd": "2026-10-24T03:24:24.576Z",
+      "dateLabel": "10/23/2026, 9:11:41 PM - 10/23/2026, 10:24:24 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261023-211141-es0f",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20261022-201944-5vd5",
       "title": "Lumpia Humner",
       "commanders": [
