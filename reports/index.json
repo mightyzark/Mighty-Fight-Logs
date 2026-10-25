@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261025-161130-xlk4",
+      "title": "Mamasöntwo",
+      "commanders": [
+        "Mamasöntwo"
+      ],
+      "guild": {
+        "id": "84546491-1091-F011-8465-02315AB41281",
+        "name": "Hardcore Havok",
+        "tag": "GvG"
+      },
+      "dateStart": "2026-10-25T21:11:30.000Z",
+      "dateEnd": "2026-10-25T21:40:50.109Z",
+      "dateLabel": "10/25/2026, 4:11:30 PM - 10/25/2026, 4:40:50 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261025-161130-xlk4",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261023-211141-es0f",
       "title": "Davidsitos",
       "commanders": [
