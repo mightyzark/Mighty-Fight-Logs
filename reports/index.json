@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261029-153204-f6k3",
+      "title": "Mamasöntwo",
+      "commanders": [
+        "Mamasöntwo"
+      ],
+      "guild": {
+        "id": "84546491-1091-F011-8465-02315AB41281",
+        "name": "Hardcore Havok",
+        "tag": "GvG"
+      },
+      "dateStart": "2026-10-29T20:32:04.000Z",
+      "dateEnd": "2026-10-29T21:43:38.450Z",
+      "dateLabel": "10/29/2026, 3:32:04 PM - 10/29/2026, 4:43:38 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261029-153204-f6k3",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.047619047619047616,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20261028-202705-eo85",
       "title": "Lumpia Humner",
       "commanders": [
