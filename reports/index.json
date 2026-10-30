@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261029-173900-k2la",
+      "title": "Findard Silverclaw",
+      "commanders": [
+        "Findard Silverclaw"
+      ],
+      "guild": {
+        "id": "8C33050C-2F74-E411-8290-AC162DAE0BED",
+        "name": "Im Too Poor To Transfer",
+        "tag": "poor"
+      },
+      "dateStart": "2026-10-29T22:39:00.000Z",
+      "dateEnd": "2026-10-29T23:22:27.821Z",
+      "dateLabel": "10/29/2026, 5:39:00 PM - 10/29/2026, 6:22:27 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261029-173900-k2la",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20261029-153204-f6k3",
       "title": "Mamasöntwo",
       "commanders": [
