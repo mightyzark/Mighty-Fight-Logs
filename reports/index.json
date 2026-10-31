@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261030-154715-mk87",
+      "title": "Mamasöntwo",
+      "commanders": [
+        "Mamasöntwo"
+      ],
+      "guild": {
+        "id": "84546491-1091-F011-8465-02315AB41281",
+        "name": "Hardcore Havok",
+        "tag": "GvG"
+      },
+      "dateStart": "2026-10-30T20:47:15.000Z",
+      "dateEnd": "2026-10-30T21:06:09.127Z",
+      "dateLabel": "10/30/2026, 3:47:15 PM - 10/30/2026, 4:06:09 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261030-154715-mk87",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261029-202242-3qks",
       "title": "Lira Humner",
       "commanders": [
