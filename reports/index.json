@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261101-192727-1uoa",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-02T01:27:27.000Z",
+      "dateEnd": "2026-11-02T02:37:13.888Z",
+      "dateLabel": "11/1/2026, 7:27:27 PM - 11/1/2026, 8:37:13 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261101-192727-1uoa",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261030-210920-3xyu",
       "title": "Pretty Humner",
       "commanders": [
