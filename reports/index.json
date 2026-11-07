@@ -9,6 +9,45 @@
   },
   "entries": [
     {
+      "id": "20261106-201348-ct43",
+      "title": "Pretty Humner",
+      "commanders": [
+        "Pretty Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-07T02:13:48.000Z",
+      "dateEnd": "2026-11-07T03:16:24.095Z",
+      "dateLabel": "11/6/2026, 8:13:48 PM - 11/6/2026, 9:16:24 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261106-201348-ct43",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.6666666666666666,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261106-152704-98oj",
       "title": "Captain Floofpaws",
       "commanders": [
