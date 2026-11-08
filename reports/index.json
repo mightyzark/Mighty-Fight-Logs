@@ -9,6 +9,38 @@
   },
   "entries": [
     {
+      "id": "20261107-130444-ffe6",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "19FE7C41-B0D8-F011-BB16-027555657585",
+        "name": "The Mighty Piglets",
+        "tag": "OINK"
+      },
+      "dateStart": "2026-11-07T19:04:44.000Z",
+      "dateEnd": "2026-11-07T22:11:34.006Z",
+      "dateLabel": "11/7/2026, 1:04:44 PM - 11/7/2026, 4:11:34 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261107-130444-ffe6",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.08333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 2,
+        "avgEnemySize": 11
+      }
+    },
+    {
       "id": "20261106-201348-ct43",
       "title": "Pretty Humner",
       "commanders": [
