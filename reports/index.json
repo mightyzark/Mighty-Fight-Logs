@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261108-125355-i85p",
+      "title": "Crunchy Paladin, Crunchy Rampage",
+      "commanders": [
+        "Crunchy Paladin",
+        "Crunchy Rampage"
+      ],
+      "guild": {
+        "id": "D30ED367-8FAD-4648-BDF1-7C6A9F44E36D",
+        "name": "Legendary Drunken Masters",
+        "tag": "DUI"
+      },
+      "dateStart": "2026-11-08T18:53:55.000Z",
+      "dateEnd": "2026-11-08T19:56:30.262Z",
+      "dateLabel": "11/8/2026, 12:53:55 PM - 11/8/2026, 1:56:30 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261108-125355-i85p",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
+    {
       "id": "20261107-211207-zhyb",
       "title": "Lumpia Humner",
       "commanders": [
