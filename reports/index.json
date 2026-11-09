@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261108-201122-f88l",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-09T02:11:22.000Z",
+      "dateEnd": "2026-11-09T03:16:11.911Z",
+      "dateLabel": "11/8/2026, 8:11:22 PM - 11/8/2026, 9:16:11 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261108-201122-f88l",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.01639344262295082,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 60,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261108-125355-i85p",
       "title": "Crunchy Paladin, Crunchy Rampage",
       "commanders": [
