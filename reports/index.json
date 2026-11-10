@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261109-195640-lfya",
+      "title": "Devona Wartora",
+      "commanders": [
+        "Devona Wartora"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-10T01:56:40.000Z",
+      "dateEnd": "2026-11-10T03:02:53.467Z",
+      "dateLabel": "11/9/2026, 7:56:40 PM - 11/9/2026, 9:02:53 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261109-195640-lfya",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0.3584905660377358,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261109-155450-ngfh",
       "title": "Mamasontwo, Meesegoflying",
       "commanders": [
