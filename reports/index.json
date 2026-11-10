@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261109-155450-ngfh",
+      "title": "Mamasontwo, Meesegoflying",
+      "commanders": [
+        "Mamasontwo",
+        "Meesegoflying"
+      ],
+      "guild": {
+        "id": "84546491-1091-F011-8465-02315AB41281",
+        "name": "Hardcore Havok",
+        "tag": "GvG"
+      },
+      "dateStart": "2026-11-09T21:54:50.000Z",
+      "dateEnd": "2026-11-09T23:06:55.370Z",
+      "dateLabel": "11/9/2026, 3:54:50 PM - 11/9/2026, 5:06:55 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261109-155450-ngfh",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 11,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20261108-201122-f88l",
       "title": "Lumpia Humner",
       "commanders": [
