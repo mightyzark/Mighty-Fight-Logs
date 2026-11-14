@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261113-201122-7hok",
+      "title": "Xero Specter",
+      "commanders": [
+        "Xero Specter"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-14T02:11:22.000Z",
+      "dateEnd": "2026-11-14T03:38:57.691Z",
+      "dateLabel": "11/13/2026, 8:11:22 PM - 11/13/2026, 9:38:57 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261113-201122-7hok",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 15,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20261112-200520-en2x",
       "title": "Lumpia Humner",
       "commanders": [
