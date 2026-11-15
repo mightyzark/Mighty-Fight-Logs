@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261114-174549-u0zi",
+      "title": "The Gherpfather",
+      "commanders": [
+        "The Gherpfather"
+      ],
+      "guild": {
+        "id": "2C183DBB-65E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Eternal Infamy",
+        "tag": "Fate"
+      },
+      "dateStart": "2026-11-14T23:45:49.000Z",
+      "dateEnd": "2026-11-15T03:24:02.467Z",
+      "dateLabel": "11/14/2026, 5:45:49 PM - 11/14/2026, 9:24:02 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261114-174549-u0zi",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 6,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20261113-201122-7hok",
       "title": "Xero Specter",
       "commanders": [
