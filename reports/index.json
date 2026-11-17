@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261116-221537-1rgu",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-11-17T04:15:37.000Z",
+      "dateEnd": "2026-11-17T04:41:41.548Z",
+      "dateLabel": "11/16/2026, 10:15:37 PM - 11/16/2026, 10:41:41 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261116-221537-1rgu",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261116-200415-cu5x",
       "title": "Lumpia Humner",
       "commanders": [
