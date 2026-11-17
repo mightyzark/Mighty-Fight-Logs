@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261116-200415-cu5x",
+      "title": "Lumpia Humner",
+      "commanders": [
+        "Lumpia Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-17T02:04:15.000Z",
+      "dateEnd": "2026-11-17T03:04:10.360Z",
+      "dateLabel": "11/16/2026, 8:04:15 PM - 11/16/2026, 9:04:10 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261116-200415-cu5x",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20261114-174549-u0zi",
       "title": "The Gherpfather",
       "commanders": [
