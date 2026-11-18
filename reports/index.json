@@ -9,6 +9,33 @@
   },
   "entries": [
     {
+      "id": "20261117-195836-ah6x",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-18T01:58:36.000Z",
+      "dateEnd": "2026-11-18T04:39:41.895Z",
+      "dateLabel": "11/17/2026, 7:58:36 PM - 11/17/2026, 10:39:41 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261117-195836-ah6x",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 8
+      }
+    },
+    {
       "id": "20261116-221537-1rgu",
       "title": "Tilted Illusion",
       "commanders": [
