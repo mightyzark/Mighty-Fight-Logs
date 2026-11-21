@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261121-115855-vfwd",
+      "title": "Jedi Master Choda",
+      "commanders": [
+        "Jedi Master Choda"
+      ],
+      "guild": {
+        "id": "F0A65814-DA18-4A9F-8010-F60EA05DA5A2",
+        "name": "Late Knight Shenanigans",
+        "tag": "LATE"
+      },
+      "dateStart": "2026-11-21T17:58:55.000Z",
+      "dateEnd": "2026-11-21T19:30:01.855Z",
+      "dateLabel": "11/21/2026, 11:58:55 AM - 11/21/2026, 1:30:01 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261121-115855-vfwd",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 29
+      }
+    },
+    {
       "id": "20261120-201217-naeu",
       "title": "Lumpia Humner, Xero Specter",
       "commanders": [
