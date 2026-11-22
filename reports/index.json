@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261121-224307-defp",
+      "title": "Anael Of The Desire",
+      "commanders": [
+        "Anael Of The Desire"
+      ],
+      "guild": {
+        "id": "61862FF5-2F1B-ED11-8465-0228F2FB5E53",
+        "name": "Shiverpeaks Warband",
+        "tag": "icy"
+      },
+      "dateStart": "2026-11-22T04:43:07.000Z",
+      "dateEnd": "2026-11-22T05:07:27.715Z",
+      "dateLabel": "11/21/2026, 10:43:07 PM - 11/21/2026, 11:07:27 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261121-224307-defp",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20261121-201643-3hpn",
       "title": "Dynamite Funbags, Lumpia Humner",
       "commanders": [
