@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261122-110711-dcpx",
+      "title": "Maria Humner",
+      "commanders": [
+        "Maria Humner"
+      ],
+      "guild": {
+        "id": "1542485F-68C6-EC11-81A9-8FB5CFBE7766",
+        "name": "Rule Xero Gaming",
+        "tag": "RXG"
+      },
+      "dateStart": "2026-11-22T17:07:11.000Z",
+      "dateEnd": "2026-11-22T18:00:52.966Z",
+      "dateLabel": "11/22/2026, 11:07:11 AM - 11/22/2026, 12:00:52 PM",
+      "url": "https://mightyzark.github.io/Mighty-Fight-Logs/?report=20261122-110711-dcpx",
+      "publishedBy": "mightyzark",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 15
+      }
+    },
+    {
       "id": "20261121-224307-defp",
       "title": "Anael Of The Desire",
       "commanders": [
